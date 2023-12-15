@@ -1,0 +1,12 @@
+id,dni,nombre,apellido,telefono,email,direccion_calle,direccion_numero
+1,047237409,Benjamin,Cooper,(937) 296-2459,benjamin.cooper@example.com,Daisy Dr,4757
+2,544843628,Amy,Bates,(904) 209-7733,amy.bates@example.com,Ranchview Dr,6608
+3,032042301,Fred,Lowe,(939) 456-4033,fred.lowe@example.com,Spring St,6163
+4,565956176,Erin,Campbell,(765) 914-1093,erin.campbell@example.com,Oak Lawn Ave,4927
+5,051117586,Lawrence,Fletcher,(784) 300-2795,lawrence.fletcher@example.com,Hickory Creek Dr,3468
+6,318790473,Linda,Payne,(551) 869-2716,linda.payne@example.com,Hickory Creek Dr,396
+7,128073238,Gary,Turner,(569) 636-5837,gary.turner@example.com,Smokey Ln,4499
+8,785486691,Tara,Burton,(838) 219-4948,tara.burton@example.com,Homestead Rd,5703
+9,848442804,Victoria,Harris,(775) 333-6769,victoria.harris@example.com,Pecan Acres Ln,2911
+10,297581419,Katrina,Wallace,(245) 436-1288,katrina.wallace@example.com,E Pecan St,6160
+11,231312312,Agustin,apellidoSAS,24124215,sasdsad,hola,214214
